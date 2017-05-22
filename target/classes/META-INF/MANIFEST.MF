@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: predix-survey-service
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.ge.survey.analytic
+Build-Jdk: 1.7.0_60
+Built-By: predix
+Created-By: Maven Integration for Eclipse
+
